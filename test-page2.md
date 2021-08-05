@@ -1,5 +1,5 @@
 ---
-title: Guions
+title: Altres
 layout: page
 ---
 
