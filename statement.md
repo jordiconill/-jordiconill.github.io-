@@ -18,3 +18,5 @@ Alguns anys després, el 2012, quan jo en tenia divuit, em vaig matricular en el
 Finalment, la culminació del recorregut anterior es va produir quan vaig començar a estudiar el grau de cinematografia de l'ESCAC amb vint-i-quatre anys, un cop finalitzada la carrera d'Humanitats. L'experiència m’ha servit per adquirir els fonaments pràctics de la professió, incrementar moltíssim el meu bagatge cinèfil i conèixer gent que comparteix la meva passió. Però el més decisiu, al meu entendre, és que el pas per l'ESCAC ha reafirmat les meves ganes d'aconseguir ser director i guionista, el meu objectiu inicial quan vaig ingressar a l'escola. 
 
 A hores d’ara, amb un guió de llargmetratge sota el braç, que m’ha servit com a treball de final de grau, esperó amb il·lusió la possibilitat d’iniciar el màster en direcció o guió. Mentrestant deixo testimoni en aquesta web de la trajectòria que m’ha portat fins aquí.
+
+![Imatge recent](/WhatATheme/assets/images/me/Statement.jpg)

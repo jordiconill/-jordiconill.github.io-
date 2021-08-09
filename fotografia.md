@@ -8,3 +8,6 @@ Les fotografies que he anat fent al llarg dels anys bàsicament estan emmagatzem
 [Instagram](https://www.instagram.com/conillsalome/?hl=es)
 
 [Flickr](https://www.flickr.com/photos/142038215@N05/)
+
+
+![Imatge destacada](/WhatATheme/assets/images/foto/first.jpg)
