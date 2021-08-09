@@ -45,7 +45,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Jordi Conill
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/me/Contacte.jpg
+author-image: assets/images/me/Contacte.jpg
 # 60 Words About the Author
 author-about: El meu nom és Jordi Conill Salomé, graduat en cinematografia per l'ESCAC i en Humanitats i Estudis Interculturals per la Universitat Jaume I. M'agrada escriure guions i dirigir pel·lícules per damunt de qualsevol altra cosa. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
