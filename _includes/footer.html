@@ -18,7 +18,7 @@
                         <div class="column is-marginless">
                             <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
                             <div class="content has-text-grey">
-                                <p>{{site.author-about | truncate: 75 }}</p>
+                                <p>{{site.author-about | truncate: 125 }}</p>
                             </div>
                         </div>
                     </div>
@@ -27,9 +27,9 @@
 
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>Enllaços</h3>
-                {% for sitepage in site.html_pages offset: 4 %}
-                {% unless sitepage.url == '/'  limit: 2 %}
+                <h3>Enllaços principals</h3>
+                {% for sitepage in site.html_pages %}
+                {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' or sitepage.url == '/narrativa' or sitepage.url == '/so' or sitepage.url == '/project' %}
                 <li>
                     <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>
@@ -41,14 +41,14 @@
             </div>
 
             <!--Blog-post Section-->
-            <div class="column has-text-white">
+            <!--div class="column has-text-white">
                 <h3>Posts més nous</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>
                 </li>
                 {% endfor %}
-            </div>
+            </div-->
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
