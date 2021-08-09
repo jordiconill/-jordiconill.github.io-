@@ -19,4 +19,4 @@ Finalment, la culminació del recorregut anterior es va produir quan vaig comen�
 
 A hores d’ara, amb un guió de llargmetratge sota el braç, que m’ha servit com a treball de final de grau, esperó amb il·lusió la possibilitat d’iniciar el màster en direcció o guió. Mentrestant deixo testimoni en aquesta web de la trajectòria que m’ha portat fins aquí.
 
-![Imatge recent](assets/images/me/Statement.jpg)
+<img src="assets/images/me/Statement.jpg" style="width: 50%;">
