@@ -7,18 +7,20 @@ layout: page
 
 Es tracta d’un treball destinat inicialment a l'assignatura de Literatura Comparada del grau d'Humanitats i Estudis Interculturals que vaig cursar a la Universitat Jaume I. Més tard el vaig revisar i ampliar i va aparèixer publicat al meu blog personal. L'objectiu de treball era dur a terme una anàlisi comparativa entre una obra literària i una altra obra artística de qualsevol àmbit que hi mantingués algun tipus de connexió. El primer que vaig pensar era que volia parlar de La Tragèdia de Macbeth de William Shakespeare, una obra de teatre que ha tingut unes quantes adaptacions molt destacables al cinema, a càrrec de grans directors com ara Orson Welles, Akira Kurosawa i Roman Polanski. 
 
-http://laclaudargent.blogspot.com/2016/01/quatre-versions-de-macbeth.html
+[Assaig complet](http://laclaudargent.blogspot.com/2016/01/quatre-versions-de-macbeth.html)
 
 # Bioshock o la rebel·lió a la piscifactoria:
 
 Aquest article publicat al meu blog l’any 2016, alguns mesos després de l’anterior. Estudia les analogies existents entre els videojocs i el cinema a partir de l’anàlisi de BioShock (2007) de Ken Levine.
 
-http://laclaudargent.blogspot.com/2016/09/bioshock-o-la-rebellio-la-piscifactoria.html
+[Assaig complet](http://laclaudargent.blogspot.com/2016/09/bioshock-o-la-rebellio-la-piscifactoria.html)
+
 # Inteligencia artificial en el cine: conflictos y paradojas
 
 Article escrit originalment per a l'assignatura de Filosofia de les Ciències, corresponent al quart curs del grau d'Humanitats i Estudis Interculturals. Vaig considerar interessant abordar el tractament de la temàtica de la intel·ligència artificial des d'un punt de vista cinematogràfic.
 
-https://drive.google.com/drive/folders/1kZczqx-X1h0YaxB4zNiO4FkzyD1x4Rq_
+[Assaig complet](assets/pdf/Inteligencia-Artificial-en-el-cine.pdf)
+
 
 # La crisi del tardocapitalisme i el seu reflex al cinema
 
