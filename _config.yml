@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://jordiconill.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: https://jordiconill.github.io/
 
 # Title of the Site
 title: Jordi Conill Portfolio
@@ -13,7 +13,7 @@ description: Portfolio de Jordi Conill per l'ESCAC
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: 
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -29,7 +29,7 @@ instagram_username: conillsalome
 linkedin_username:
 github_username:
 #youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-youtube_channel_id:
+youtube_channel_id: UCFK9V3B_GnGfIrUwruXxdsg
 
 reddit_username:
 behance_username:
@@ -37,7 +37,7 @@ dribbble_username:
 spotify_username:
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
 
 # Disqus
 disqus-shortname:
