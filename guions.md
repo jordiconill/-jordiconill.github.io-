@@ -27,15 +27,15 @@ El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,
 
 *Padre, hemos pecado* és un guió en el qual vaig participar juntament amb els meus companys, Laura Marqués i Miquel Felipe per al treball final de direcció del meu company Gabriel Olivares.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E9rl6thSlJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Veure el curtmetratge](https://www.youtube.com/watch?v=E9rl6thSlJ8){:target="blank"}
 
-![Imatge destacada](assets/images/guions/Guions-Padre-hemos-pecado.jpg){:height="30%" width="30%"}
+![Imatge destacada](assets/images/guions/Guions-Padre-hemos-pecado.jpg){:height="5%" width="5%"}
 
 # A las diez / El deseo
 
 Guió desenvolupat amb el meu company Gabriel Cagide per al seu treball final de direcció del segon curs de l’ESCAC.  Es basa en un relat de James Salter i gira al voltant de la relació d’una parella burgesa amb un noi bohemi que comença a viure amb ells. A tall de contrast, he decidit incloure-hi la primera versió, redactada amb absoluta llibertat, conjuntament amb la versió, molt més ajustada a les intencions del meu company, que finalment es va rodar.
 
-<iframe width="560" height="315" src="https://youtu.be/swLevRQe62k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=swLevRQe62k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Guió complet](assets/pdf/El-Deseo.pdf){:target="blank"}
 
