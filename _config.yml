@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://jordiconill.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://jordiconill.github.io/
+baseurl: 
 
 # Title of the Site
 title: Jordi Conill Portfolio
