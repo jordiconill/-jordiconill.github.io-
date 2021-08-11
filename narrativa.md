@@ -7,10 +7,11 @@ layout: page
 
 ## *Doppelgänger*  
 Aquest conte de terror va aparèixer l’any 2010 en l’antologia d’escriptors castellonencs *La Lletra Ferida*, publicat per l’associació cultural Colla Rebombori. Buscaven textos d’escriptors castellonencs molt joves per tancar el llibre, i van acceptar el meu relat perquè els va agradar força. De fet, vist en perspectiva, és el primer treball literari del qual estic realment satisfet.
-Més enllà de les pàgines que n’he escanejat a continuació, deixo [aquí](https://issuu.com/rebombori/docs/lalletraferida2010) un enllaç que permet visualitzar el llibre complet amb més qualitat.     
+Més enllà de les pàgines que n’he escanejat a continuació, deixo [aquí](https://issuu.com/rebombori/docs/lalletraferida2010){:target="blank"} un enllaç que permet visualitzar el llibre complet amb més qualitat.     
 
 [Conte complet](assets/pdf/Doppelganger.pdf){:target="blank"}
-[Llibre complet de *La Lletra Ferida*](assets/pdf/Doppelganger.pdf){:target="blank"}
+
+[Llibre complet de *La Lletra Ferida*](https://issuu.com/rebombori/docs/lalletraferida2010){:target="blank"}
 
 ## L’insecte del meu odi 
 
