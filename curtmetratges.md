@@ -7,7 +7,7 @@ layout: page
 
 Perfil de Mort va ser el primer curtmetratge que vaig rodar, abans d’entrar a l’ESCAC. La idea va sorgir quan vaig sentir parlar d’una persona en el mur de Facebook de la qual la gent continuava escrivint després de la seva mort, i vaig imaginar una situació en què, precisament a causa d’aquest fenomen, aquesta persona no pogués desaparèixer del tot una vegada mort, esdevenint així una mena fantasma digital. D’aquesta manera, el meu conte de fantasmes es va transformar en una variació fantàstica sobre un tema recurrent en la ciència-ficció actual com ara és el de la transcendència digital. Rodar el curtmetratge va ser un repte personal, ja que no tenia ni idea de qüestions tècniques i mai no havia fet res semblant.
 
-<div>
+<iframe>
 <style>
 * {
   box-sizing: border-box;
@@ -16,7 +16,7 @@ Perfil de Mort va ser el primer curtmetratge que vaig rodar, abans d’entrar a 
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
@@ -30,13 +30,13 @@ Perfil de Mort va ser el primer curtmetratge que vaig rodar, abans d’entrar a 
 </style>
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KYzSZFw_V74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Imatge recent](assets/images/me/Statement.jpg){:height="30%" width="30%"}
   </div>
   <div class="column" style="background-color:#bbb;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYzSZFw_V74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-</div>
+</iframe>
 
 
 # Punto final
