@@ -29,7 +29,7 @@ El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,
 
 [Veure el curtmetratge](https://www.youtube.com/watch?v=E9rl6thSlJ8){:target="blank"}
 
-![Imatge destacada](assets/images/guions/Guions-Padre-hemos-pecado.jpg){:height="5%" width="5%"}
+![Imatge destacada](assets/images/guions/Guions-Padre-hemos-pecado.jpg){:height="12%" width="12%"}
 
 # A las diez / El deseo
 
