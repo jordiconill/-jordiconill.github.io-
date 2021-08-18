@@ -35,9 +35,9 @@ El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,
 
 Guió desenvolupat amb el meu company Gabriel Cagide per al seu treball final de direcció del segon curs de l’ESCAC.  Es basa en un relat de James Salter i gira al voltant de la relació d’una parella burgesa amb un noi bohemi que comença a viure amb ells. A tall de contrast, he decidit incloure-hi la primera versió, redactada amb absoluta llibertat, conjuntament amb la versió, molt més ajustada a les intencions del meu company, que finalment es va rodar.
 
-[Veure el curtmetratge](https://www.youtube.com/watch?v=swLevRQe62k){:target="blank"}
-
 [Guió complet](assets/pdf/El-Deseo.pdf){:target="blank"}
+
+[Veure el curtmetratge](https://www.youtube.com/watch?v=swLevRQe62k){:target="blank"}
 
 ![Imatge destacada](assets/images/guions/Guions-A-las-diez.png){:height="30%" width="30%"}
 
