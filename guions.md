@@ -15,6 +15,8 @@ El guió de *Sinestèsia* el vaig escriure tot just començar el primer curs a l
 
 El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,  presenta una reflexió irònica sobre el tema del suïcidi, a través de la veu de dos personatges aparentment oposats.
 
+[Veure el curtmetratge](https://www.youtube.com/watch?v=gitlYI8eRQg){:target="blank"}
+
 # La Criatura
 
 *La Criatura* és un guió que conté una reflexió al·legòrica sobre la corrupció del poder. El vaig escriure originalment com un treball per a un intensiu de diàleg, dirigit pel dramaturg Sergi Pompermayer. La versió disponible aquí és el producte de diverses reescriptures i la combinació  entre humor negre, terror i sàtira política de la proposta, crec que pot resultar atractiva.
