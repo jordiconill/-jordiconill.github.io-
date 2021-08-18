@@ -7,7 +7,7 @@ layout: page
 
 El meu últim curtmetratge, *Aigua Corrent*, va ser rodat inicialment en plena pandèmia, durant l’estiu del 2020, amb la meva mare i la meva àvia com a intèrprets. Poc després es va espatllar el disc dur en què guardava la meitat del material fílmic i al cap d’un any he hagut de tornar a rodar-lo. En conseqüència, el 90% de la pel·lícula actual és de factura molt recent. He decidit destacar-la col·locant-la a la secció de Novetats i al principi de la meva filmografia perquè, a part de constituir el meu últim treball, del qual em trobo especialment satisfet, és també el curtmetratge en què m’he ocupat de més aspectes com ara la direcció, el treball de càmera, el guió, el muntatge, la sonorització i l’apartat artístic, a partir del bagatge de coneixements adquirits a l’ESCAC. A tall de recapitulació, he d’afegir que el “contratemps” d’haver de tornar a rodar la pel·lícula n’ha afavorit el resultat final, que s’ha beneficiat d’una experiència que fa un any encara no posseïa. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H8WoK5PdFVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Veure el curtmetratge](https://www.youtube.com/watch?v=H8WoK5PdFVA){:target="blank"}
 
 # Perfil de mort 
 
@@ -26,6 +26,7 @@ Aquesta és la meva prova d’accés a l’ESCAC, que vaig rodar en poc més de 
 *Nonsense* va ser la primera pràctica com a director que vaig rodar a l'ESCAC, filmada amb una càmera analògica *Kransnogorsk S3* (la russa de tota la vida).  Es tractava de pensar dos adjectius i, prenent-los com a base, tractar de crear un personatge que s'hi reflectís. A part d'això, hi vaig tractar de crear una atmosfera que potenciés la sensació d'aïllament i desconnexió de la realitat que experimentava el protagonista.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGl4NQBi64w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Silenci
 
 *Silenci* és el curtmetratge final que vaig fer en primer. Personalment, no és el meu preferit i crec que podria ser bastant millorable, però amb la seva realització vaig aprendre moltes coses sobre les eines d'edició i va em va permetre explorar temes i recursos que he desenvolupat millor en treballs posteriors. El curt està inspirat en un comentari de Jorge Luis Borges, a propòsit de les doctrines del místic suec Emanuel Swedenborg: *"Quienes mueren no saben que están muertos, durante un tiempo indefinido proyectan una imagen ilusoria de su ámbito habitual y de las personas que los rodeaban. Al cabo de ese tiempo se les acerca gente desconocida. Si el muerto es un malvado le agradan el aspecto y el trato de los demonios y no tarda en unirse a ellos; si es un justo, elige a los ángeles."*

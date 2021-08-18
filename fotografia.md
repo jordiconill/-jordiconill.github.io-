@@ -9,5 +9,4 @@ Les fotografies que he anat fent al llarg dels anys bàsicament estan emmagatzem
 
 [Flickr](https://www.flickr.com/photos/142038215@N05/)
 
-
 ![Imatge destacada](assets/images/foto/first.jpg){:height="30%" width="30%"}
