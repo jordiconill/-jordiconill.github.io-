@@ -19,7 +19,7 @@ El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,
 
 # La Criatura
 
-*La Criatura* és un guió que conté una reflexió al·legòrica sobre la corrupció del poder. El vaig escriure originalment com un treball per a un intensiu de diàleg, dirigit pel dramaturg Sergi Pompermayer. La versió disponible aquí és el producte de diverses reescriptures i la combinació  entre humor negre, terror i sàtira política de la proposta, crec que pot resultar atractiva.
+*La Criatura* és un guió que conté una reflexió al·legòrica sobre la corrupció del poder. El vaig escriure originalment com un treball per a un intensiu de diàleg, dirigit pel dramaturg Sergi Pompermayer. La versió disponible aquí és el producte de diverses reescriptures i la combinació  entre humor negre, terror i sàtira política de la proposta crec que pot resultar atractiva.
 
 [Guió complet](assets/pdf/La-Criatura.pdf){:target="blank"}
 
@@ -35,7 +35,7 @@ El guió d’aquest curt, escrit conjuntament amb el meu company Marc Camardons,
 
 # A las diez / El deseo
 
-Guió desenvolupat amb el meu company Gabriel Cagide per al seu treball final de direcció del segon curs de l’ESCAC.  Es basa en un relat de James Salter i gira al voltant de la relació d’una parella burgesa amb un noi bohemi que comença a viure amb ells. A tall de contrast, he decidit incloure-hi la primera versió, redactada amb absoluta llibertat, conjuntament amb la versió, molt més ajustada a les intencions del meu company, que finalment es va rodar.
+Guió desenvolupat amb el meu company Gabriel Cagide per al seu treball final de direcció del segon curs de l’ESCAC.  Es basa en un relat de James Salter i gira al voltant de la relació d’una parella burgesa amb un noi bohemi que comença a viure amb ells. A tall de contrast, he decidit incloure-hi la primera versió del text, redactada amb absoluta llibertat, conjuntament amb la versió, molt més ajustada a les intencions del meu company, que finalment es va rodar.
 
 [Guió complet](assets/pdf/El-Deseo.pdf){:target="blank"}
 
@@ -61,7 +61,7 @@ A parer meu, i tenint en compte que es tracta d’una primera versió, *La part 
 
 # Híbrids
 
-Híbrids és el meu TFG, un guió de llargmetratge, desenvolupat sota la tutoria del professor Jaume Macià.  Consisteix en un *thriller* que conta la història complexa d’una parella de modestos detectius valencians que accepten l’encàrrec, aparentment rutinari, de cercar una dona que un d’ells ha vist en somnis, empresa que es convertirà en un autèntic malson.
+Híbrids és el meu TFG, un guió de llargmetratge, desenvolupat sota la tutoria del professor Jaume Macià. Consisteix en un *thriller* que conta la història complexa d’una parella de modestos detectius valencians que accepten l’encàrrec, aparentment rutinari, de cercar una dona que un d’ells ha vist en somnis, empresa que es convertirà en un autèntic malson.
 
 [Guió complet](assets/pdf/HIBRIDS.pdf){:target="blank"}
 

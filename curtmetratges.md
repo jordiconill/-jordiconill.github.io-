@@ -11,25 +11,25 @@ El meu últim curtmetratge, *Aigua Corrent*, va ser rodat inicialment en plena p
 
 # Perfil de mort 
 
-*Perfil de Mort* va ser el primer curtmetratge que vaig rodar, abans d’entrar a l’ESCAC. La idea va sorgir quan vaig sentir parlar d’una persona en el mur de Facebook de la qual la gent continuava escrivint després de la seva mort, i vaig imaginar una situació en què, precisament a causa d’aquest fenomen, aquesta persona no pogués desaparèixer del tot una vegada mort, esdevenint així una mena fantasma digital. D’aquesta manera, el meu conte de fantasmes es va transformar en una variació fantàstica sobre un tema recurrent en la ciència-ficció actual com ara és el de la transcendència digital. Rodar el curtmetratge va ser un repte personal, ja que no tenia ni idea de qüestions tècniques i mai no havia fet res semblant.
+*Perfil de Mort* va ser el primer curtmetratge que vaig rodar, abans d’entrar a l’ESCAC. La idea va sorgir quan vaig sentir parlar d’una persona en el mur de Facebook de la qual la gent continuava escrivint després de la seva mort, i vaig imaginar una situació en què, precisament a causa d’aquest fenomen, la persona en qüestió no pogués desaparèixer del tot una vegada morta, esdevenint així una mena fantasma digital. Així, el meu conte de fantasmes es va transformar en una variació fantàstica sobre un tema recurrent en la ciència-ficció actual com ara el de la transcendència digital. Rodar el curtmetratge va ser un repte personal, ja que no tenia ni idea de qüestions tècniques i mai no havia fet res semblant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYzSZFw_V74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Punto final
 
-Aquesta és la meva prova d’accés a l’ESCAC, que vaig rodar en poc més de 12 hores amb l’ajuda d’uns amics. Havíem de crear i filmar una història a partir de les paraules "dona, somni i llibre". Finalment vaig construir un exercici d’intriga que jugava amb els límits entre la realitat i els somnis, els conflictes entre homes i dones, remotament inspirat en l’escena del “Winkie’s” de *Mulholland Drive*.
+Aquesta és la meva prova d’accés a l’ESCAC, que vaig rodar en poc més de 12 hores amb l’ajuda d’uns amics. Havíem de crear i filmar una història a partir de les paraules "dona, somni i llibre". Finalment vaig construir un exercici d’intriga que jugava amb els límits entre la realitat i els somnis i l’ambigüitat sexual, remotament inspirat en l’escena del “Winkie’s” de *Mulholland Drive*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-P5Dz2fY1YE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Nonsense
 
-*Nonsense* va ser la primera pràctica com a director que vaig rodar a l'ESCAC, filmada amb una càmera analògica *Kransnogorsk S3* (la russa de tota la vida).  Es tractava de pensar dos adjectius i, prenent-los com a base, tractar de crear un personatge que s'hi reflectís. A part d'això, hi vaig tractar de crear una atmosfera que potenciés la sensació d'aïllament i desconnexió de la realitat que experimentava el protagonista.
+*Nonsense* va ser la primera pràctica com a director que vaig rodar a l'ESCAC, filmada amb una càmera analògica *Kransnogorsk S3* (la russa de tota la vida).  Es tractava de pensar dos adjectius i, prenent-los com a base, crear un personatge que s'hi reflectís. A part d'això, hi vaig tractar de crear una atmosfera que potenciés la sensació d'aïllament i desconnexió de la realitat que hi experimentava el protagonista.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGl4NQBi64w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Silenci
 
-*Silenci* és el curtmetratge final que vaig fer en primer. Personalment, no és el meu preferit i crec que podria ser bastant millorable, però amb la seva realització vaig aprendre moltes coses sobre les eines d'edició i va em va permetre explorar temes i recursos que he desenvolupat millor en treballs posteriors. El curt està inspirat en un comentari de Jorge Luis Borges, a propòsit de les doctrines del místic suec Emanuel Swedenborg: *"Quienes mueren no saben que están muertos, durante un tiempo indefinido proyectan una imagen ilusoria de su ámbito habitual y de las personas que los rodeaban. Al cabo de ese tiempo se les acerca gente desconocida. Si el muerto es un malvado le agradan el aspecto y el trato de los demonios y no tarda en unirse a ellos; si es un justo, elige a los ángeles."*
+*Silenci* és el curtmetratge final que vaig fer en primer. Personalment, no és el meu preferit i crec que podria ser bastant millorable, però amb la seva realització vaig aprendre moltes coses sobre les eines d'edició i em va permetre explorar temes i recursos que he desenvolupat millor en treballs posteriors. El curt està inspirat en un comentari de Jorge Luis Borges, a propòsit de les doctrines del místic suec Emanuel Swedenborg: *"Quienes mueren no saben que están muertos, durante un tiempo indefinido proyectan una imagen ilusoria de su ámbito habitual y de las personas que los rodeaban. Al cabo de ese tiempo se les acerca gente desconocida. Si el muerto es un malvado le agradan el aspecto y el trato de los demonios y no tarda en unirse a ellos; si es un justo, elige a los ángeles."*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbaY2MYSghQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -59,7 +59,7 @@ Una de les pràctiques que havíem de fer per a Documental era escriure una cart
 
 # Histèria d'un matrimoni (sketch)
 
-*Histèria d’un matrimoni* és un sketch que vaig rodar com a *divertimento* durant el confinament domiciliari, amb una fulla d'alfàbega i un caragol com a protagonistes.
+*Histèria d’un matrimoni* és un sketch que vaig rodar com a *divertimento* durant el confinament domiciliari, amb una fulla d'alfàbrega i un caragol com a protagonistes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpYnaGEJdSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
